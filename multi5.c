@@ -1,4 +1,4 @@
-#include multi5.h
+#include <multi5.h>
 
 int condFive(int solde, int dice) {
     //solde multiple de 5 donc solde amputé de la valeur du dé
