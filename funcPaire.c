@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <funcPaire.h>
 
-int funcMain(solde, dice) {
+int condPair(solde, dice) {
 
 	int solde, Int dice;
 
