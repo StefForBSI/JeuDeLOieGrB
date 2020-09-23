@@ -1,1 +1,1 @@
-int DiceValue();
+int diceValue();
