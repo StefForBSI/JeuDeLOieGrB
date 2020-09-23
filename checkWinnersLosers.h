@@ -1,1 +1,1 @@
-int main (int soldeA, int soldeB);
+int checkWinnersLosers(int soldeA, int soldeB, int objectifA, int objectifB);
