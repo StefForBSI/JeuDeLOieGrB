@@ -1,0 +1,1 @@
+int condEqual(int soldeA, int soldeB, int dice);
