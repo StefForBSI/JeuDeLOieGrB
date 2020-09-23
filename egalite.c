@@ -2,7 +2,7 @@
 int condEqual(int soldeA, int soldeB, int dice) {
 	if (soldeA == soldeB)
 	{
-		soldeB -= dice
+		soldeB -= dice;
 	}
-	return soldeB
+	return soldeB;
 }
