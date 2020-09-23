@@ -3,17 +3,17 @@
 #include <stdlib.h>
 #include <funcPaire.h>
 
-int funcMain(soldeJoueur, lanceDe) {
+int funcMain(solde, dice) {
 
-	int soldeJoueur1, Int lanceDe;
+	int solde, Int dice;
 
-	if (soldeJoueur %2 == 0)
+	if (solde %2 == 0)
 	{
-		soldeJoueur += lanceDe;
-		return soldeJoueur;
+		solde += dice;
+		return solde;
 	}
 	else
 	{
-		return soldeJoueur;
+		return solde;
 	}
 }
