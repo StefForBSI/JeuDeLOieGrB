@@ -1,4 +1,0 @@
-
-//fonction player
-
-int player();
