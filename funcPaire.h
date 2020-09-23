@@ -1,0 +1,1 @@
+int funcMain(soldeJoueur, lanceDe);
