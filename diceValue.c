@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int lanceDeDe() {
+int DiceValue() {
     srand( time( NULL ) );
     int res = (rand() % 6) + 1;
     return res;
